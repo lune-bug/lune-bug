@@ -19,5 +19,5 @@ Estou em busca de **oportunidades no mercado de tecnologia** onde eu possa coloc
 Estou sempre aberta a colaborações, conversas sobre tecnologia e projetos interessantes! Vamos explorar juntos esse universo de possibilidades! 🌟
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Snoopy animado" width="300"/>
+  <img src="https://i.pinimg.com/originals/7c/96/35/7c9635c777a409bfb10e07e645da8933.gif" alt="Snoopy animado" width="300"/>
 </p>
